@@ -1,0 +1,1 @@
+API smoke-test notes: use http://127.0.0.1:8000/docs to test GET /ping and POST /detect/image. Try a valid image and a text file to verify successful inference and HTTP 400 validation.
